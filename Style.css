@@ -1,0 +1,17 @@
+#Menu{
+    border-style:groove; 
+    border-radius: 5px;
+    padding: 100px;
+    text-align: center;
+    background-color: rgb(208, 216, 241);
+}
+
+button{
+    padding: 10px;
+    border-radius: 12px;
+    background-color: aliceblue;
+}
+
+button:hover{
+    background-color: rgb(208, 216, 241);
+}

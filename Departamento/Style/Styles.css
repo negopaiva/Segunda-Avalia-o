@@ -1,0 +1,154 @@
+header{
+    font-size:large;
+}
+
+
+
+footer{
+    text-align: center;
+
+}
+
+img{
+    border-radius: 90px;
+    align-items:flex-end;
+}
+body{
+    background-color: rgb(208, 236, 236);
+    margin: 0px;
+    padding-left: 50px;
+}
+
+#box{
+    width: 900px;
+    padding: 30px;
+    padding-left: 20px;
+    border-style: solid;
+    border-color: grey;
+    border-width: 3px;
+    margin: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+
+    background-color: aliceblue;
+    
+   
+}
+#professores{
+    margin-left: 300px;
+    width: 100vw;
+    height: 300vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#logo{
+    width: 450px;
+    border-radius: 0px;
+    
+}
+#Ufersa{
+    border-radius: 0%;
+    width: 450px;    
+}
+
+#Leandro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    text-align: justify;
+    background-color: rgb(219, 235, 245);
+    border-radius: 10px;
+    
+    border-style:groove;
+    
+    
+}
+#TextoLeandro{
+    padding: 10px;
+}
+
+#Ferdinand{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    text-align: justify;
+    background-color: rgb(219, 235, 245);
+    border-radius: 10px;
+    border-style:groove;
+
+}
+
+#TextoFerdinand{
+    padding: 10px;
+
+}
+
+#Reudisman{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    text-align: justify;
+    background-color: rgb(219, 235, 245);
+    border-radius: 10px;
+    border-style:groove;
+}
+
+#TextoReudisman{
+    padding: 10px;
+}
+
+#Cibelly{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    text-align: justify;
+    background-color: rgb(219, 235, 245);
+    border-radius: 10px;
+    border-style:groove;
+}
+
+#TextoCibelly{
+    padding: 10px;
+}
+
+#Walber{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    text-align: justify;
+    background-color: rgb(219, 235, 245);
+    border-radius: 10px;
+    border-style:groove;
+}
+
+#TextoWalber{
+    padding: 10px;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+}
+
+#Professores a{
+    border-style: groove;
+    border-radius: 5px;
+    border-color: grey;
+    background-color: rgb(227, 236, 240);
+    margin-left: 550px;
+    padding: 5px;
+}
+
+#Inicio{
+    border-style: groove;
+    margin-left: 20px;
+}
